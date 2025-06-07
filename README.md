@@ -1,2 +1,2 @@
 # Virtual-Business-Card
-new repo
+Apersonal digital card that displays your identity
